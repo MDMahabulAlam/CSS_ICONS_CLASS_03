@@ -1,0 +1,42 @@
+.container{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(251, 255, 255);
+}
+#house-user{
+    color: blueviolet;
+}
+#facebook{
+    color: blue;
+}
+#messenger{
+    color: darkblue;
+}
+#youtube{
+    color: crimson;
+}
+#whatsapp{
+    color: rgb(215, 42, 195);
+}
+#chrome{
+    color: rgb(25, 141, 242);
+
+}
+#windows{
+    color: darkgreen;
+}
+#turtle{
+    color: rgb(53, 231, 53);
+}
+#envelope-open{
+    color: rgb(33, 50, 231);
+}
+#shield-halved{
+    color: blueviolet;
+}
+#heavy{
+    color: rgb(28, 249, 28);
+}
+#ethereum{
+    color: rgb(249, 25, 40);
+}
